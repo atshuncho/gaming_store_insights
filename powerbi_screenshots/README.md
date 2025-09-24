@@ -33,11 +33,14 @@ The dashboard helps identify differences between variants **A** and **B**, and m
   - Variant Distribution  
 
 ---
+## Power BI screenshots
 <p float="left">
-  <img src="powerbi_screenshots/pbi_overview.png" width="400" />
-  <img src="powerbi_screenshots/pbi_purchases.png" width="400" />
-  <img src="powerbi_screenshots/pbi_user_behaviour.png" width="400" />
+  <img src="pbi_overview.png" width="400" />
+  <img src="pbi_purchases.png" width="400" />
+  <img src="pbi_user_behaviour.png" width="400" />
 </p>
+
+
 ## DAX Measures Used
 
 ```DAX
