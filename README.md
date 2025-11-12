@@ -1,4 +1,5 @@
 # Gaming Store A/B Test Insights
+[PowerBI Report](insights_report.pbix)
 
 This project analyses user behaviour and revenue outcomes from an **A/B test experiment** using SQL and Power BI.  
 The dataset includes **user sessions, actions, exposures, purchases, and experiments**.  
